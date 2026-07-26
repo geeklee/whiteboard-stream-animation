@@ -1,0 +1,10 @@
+# 虚拟环境：由 scripts/prepare_env.py 现场重建，不纳入分发
+.venv/
+
+# 渲染产物
+out/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo

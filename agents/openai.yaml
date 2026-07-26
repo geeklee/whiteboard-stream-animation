@@ -1,0 +1,4 @@
+interface:
+  display_name: "流式笔迹白板动画"
+  short_description: "把图片或文章渲染成连续落笔、逐步上色、最后停留的流式手绘笔迹白板动画视频"
+  default_prompt: "使用 $whiteboard-stream-animation 把这张图片/这篇文章渲染成流式手绘笔迹白板动画。"
